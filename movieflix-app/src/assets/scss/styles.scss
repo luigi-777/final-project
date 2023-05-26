@@ -1,0 +1,79 @@
+@use '~bootstrap/scss/bootstrap.scss';
+
+body {
+    background-color: #3D59AB;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+
+  #nav {
+    background-color: 	#00008B;
+}
+
+#navlink {
+    color: white;
+}
+
+#homepage {
+  color: white;
+  margin: 0px;
+}
+
+#card {
+  margin: 20px;
+}
+
+#trail {
+  color: white;
+}
+
+  #elenco {
+    color: white;
+  }
+
+  #cd {
+    background-color:  			#4169E1;
+  }
+
+  #thead {
+    color: white;
+  }
+
+  #tbody {
+    color: white;
+  }
+
+  #btnew {
+    background-color: white;
+    text-decoration: black;
+  }
+
+  #form {
+    background-color: #4169E1;
+  }
+
+  #bord {
+    background-color: #4169E1;
+  }
+  
+ #riga {
+  background-color: #4169E1;
+ }
+
+ #genere {
+  color:   white;
+ }
+
+ #newgen {
+  color: white;
+ }
+
